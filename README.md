@@ -20,7 +20,7 @@ JHTTP is a simple HTTP server written in the Java 8.
 
     mvn clean package
  
-It creates a self-contained, executable JAR in the `target` directory. UlanTest
+It creates a self-contained, executable JAR in the `target` directory.
 
 ## Usage
 
