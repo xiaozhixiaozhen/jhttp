@@ -27,3 +27,4 @@ public class SocketHttpRequestTest {
         return new SocketHttpRequest(socket, new PathResolver(Paths.get("/server/root")));
     }
 }
+
